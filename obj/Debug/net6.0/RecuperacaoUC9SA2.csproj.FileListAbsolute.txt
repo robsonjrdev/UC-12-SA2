@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\RecuperacaoUC9SA2\bin\Debug\net6.0\RecuperacaoUC9SA2.exe
+C:\Users\admin\Desktop\RecuperacaoUC9SA2\bin\Debug\net6.0\RecuperacaoUC9SA2.deps.json
+C:\Users\admin\Desktop\RecuperacaoUC9SA2\bin\Debug\net6.0\RecuperacaoUC9SA2.runtimeconfig.json
+C:\Users\admin\Desktop\RecuperacaoUC9SA2\bin\Debug\net6.0\RecuperacaoUC9SA2.dll
+C:\Users\admin\Desktop\RecuperacaoUC9SA2\bin\Debug\net6.0\RecuperacaoUC9SA2.pdb
+C:\Users\admin\Desktop\RecuperacaoUC9SA2\obj\Debug\net6.0\RecuperacaoUC9SA2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\RecuperacaoUC9SA2\obj\Debug\net6.0\RecuperacaoUC9SA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\RecuperacaoUC9SA2\obj\Debug\net6.0\RecuperacaoUC9SA2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\RecuperacaoUC9SA2\obj\Debug\net6.0\RecuperacaoUC9SA2.AssemblyInfo.cs
+C:\Users\admin\Desktop\RecuperacaoUC9SA2\obj\Debug\net6.0\RecuperacaoUC9SA2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\RecuperacaoUC9SA2\obj\Debug\net6.0\RecuperacaoUC9SA2.dll
+C:\Users\admin\Desktop\RecuperacaoUC9SA2\obj\Debug\net6.0\refint\RecuperacaoUC9SA2.dll
+C:\Users\admin\Desktop\RecuperacaoUC9SA2\obj\Debug\net6.0\RecuperacaoUC9SA2.pdb
+C:\Users\admin\Desktop\RecuperacaoUC9SA2\obj\Debug\net6.0\RecuperacaoUC9SA2.genruntimeconfig.cache
+C:\Users\admin\Desktop\RecuperacaoUC9SA2\obj\Debug\net6.0\ref\RecuperacaoUC9SA2.dll

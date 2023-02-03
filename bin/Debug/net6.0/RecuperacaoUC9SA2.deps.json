@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RecuperacaoUC9SA2/1.0.0": {
+        "runtime": {
+          "RecuperacaoUC9SA2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RecuperacaoUC9SA2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
